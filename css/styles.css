@@ -7842,7 +7842,11 @@ textarea.form-control-lg {
 
 .bg-dark {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  background:url(/assets/bda5be61177acdb5fd46c3219f8b81a0.jpg) no-repeat center;
+    background-size: cover;
+	height:500px;
+	width: 100%;
+    background-attachment: fixed;
 }
 
 .bg-black {
