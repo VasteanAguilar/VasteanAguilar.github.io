@@ -7849,6 +7849,15 @@ textarea.form-control-lg {
     background-attachment: fixed;
 }
 
+.bg-darkk {
+  --bs-bg-opacity: 1;
+  background:url(/assets/bda5be61177acdb5fd46c3219f8b81a0.jpg) no-repeat center;
+    background-size: cover;
+	height:1500px;
+	width: 100%;
+    
+}
+
 .bg-black {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
